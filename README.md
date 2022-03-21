@@ -7,7 +7,7 @@ tem um arquivo chamado "restos" que é literalmente tudo o que eu fiz e que não
 
 
 
-### Tecnolocias.
+### Tecnologias.
 React hooks.
 Firebase auth/Cloud Firestore.
 E fiz o deploy com o netlify: https://bancodedados1.netlify.app/
